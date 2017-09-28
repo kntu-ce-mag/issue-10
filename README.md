@@ -1,2 +1,6 @@
-# issue-10
-Issue 10 - Asre Rayaneh Magazine
+# نشریه علمی انجمن علمی کامپیوتر دانشگاه صنعتی خواجه نصیر الدین طوسی شماره ۱۹
+## کاور مجله
+![Cover](https://github.com/kntu-ce-mag/issue-10/raw/master/front-cover.jpg)
+## دانلود
+[Issue 10 - Download](https://github.com/kntu-ce-mag/issue-10/raw/master/CE_KNTU_ISSUE_10.pdf)
+
